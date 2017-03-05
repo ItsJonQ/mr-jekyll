@@ -17,6 +17,9 @@ url: ""
 markdown:     kramdown
 permalink:    pretty
 
+gems:
+  - jekyll-template
+
 exclude:
   - css
   - fonts
