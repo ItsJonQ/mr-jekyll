@@ -17,11 +17,15 @@ url: ""
 markdown:     kramdown
 permalink:    pretty
 
-exclude: [
-  ".asset-cache",
-  ".grunt",
-  ".tmp",
-  "_assets/vendor",
-  "node_modules",
-  "tmp"
-]
+exclude:
+  - css
+  - fonts
+  - images
+  - js
+
+keep_files:
+  - css
+  - fonts
+  - images
+  - js
+  - "*.xml"
