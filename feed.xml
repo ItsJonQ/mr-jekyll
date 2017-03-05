@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your awesome title</title>
+    <description></description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 04 Mar 2017 22:20:34 -0500</pubDate>
+    <lastBuildDate>Sat, 04 Mar 2017 22:20:34 -0500</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Welcome to Mr. Jekyll!</title>
+        <description>
+</description>
+        <pubDate>Mon, 22 Feb 2016 20:01:08 -0500</pubDate>
+        <link>/2016/02/22/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">/2016/02/22/welcome-to-jekyll/</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
