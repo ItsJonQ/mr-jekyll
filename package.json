@@ -5,6 +5,7 @@
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp",
+    "deploy": "gulp deploy",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -12,12 +13,13 @@
     "url": "git+https://github.com/ItsJonQ/mr-jekyll.git"
   },
   "author": "ItsJonQ",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ItsJonQ/mr-jekyll/issues"
   },
   "homepage": "https://github.com/ItsJonQ/mr-jekyll#readme",
   "devDependencies": {
+    "blob": "0.0.4",
     "browser-sync": "^2.18.8",
     "browserify": "^14.1.0",
     "check-dependencies": "^1.0.1",
